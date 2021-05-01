@@ -1,2 +1,2 @@
-# 18BD1A0501_MicroProject
+# 18BD1A0501_Chandana_Adusumilli_MicroProject
 Inventory Management using CRUD operations
