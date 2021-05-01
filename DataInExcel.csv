@@ -1,0 +1,11 @@
+Pid,Brand,Model,Screen size,CPU Type,RAM,HDD,Video card,Stock,Price
+1000,Asus,G73J,10.1,Intel Core i7 720,12GB,750GB,Radeon HD 5800,5,$700 
+1001,Dell,Latitude D620,14.1,Intel Core 2T7500,2GB,250GB,Intel 945 Express,10,$145 
+1002,Acer,57332-4633,15.6,Intel Pentium CPU P6200,4GB,500GB,Intel HD Graphics,4,$365 
+1003,Dell,Inspiron 17,15.4,Intel i5 M450,4GB,640GB,Radeon HD 5000,8,$325 
+1004,HP,Pavilion,15.6,Amd A10-4600m,6GB,640GB,Radeon HD 7660G,10,$425 
+1005,Asus,G72GX,17.3,Intel Core 2 Duo,6GB,500GB,GeForce GTX 240m,5,$295 
+1006,Toshiba,Sat C55-B5270,15.6,Intel Pentium CPU N3530,8GB,500GB,Intel HD Graphics,6,$275 
+1007,Lenovo,T440S,14,Intel Core i7 4600,12GB,256SSD,Intel HD Graphics,10,$720 
+1008,HP,Pavilionx360,14.1,Intel Core i7,12GB,470GB,Intel Iris Plus Graphics,5,$549 
+1009,Alienware,m15 R3,15.6,Intel Core i9-10980,32GB,1TBSSD,NVIDIA GEFORCE,3,"$1,690 "
